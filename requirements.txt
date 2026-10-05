@@ -1,0 +1,6 @@
+langgraph
+fastapi
+uvicorn
+psycopg[binary]
+anthropic
+pytest
